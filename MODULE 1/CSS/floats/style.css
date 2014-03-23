@@ -1,0 +1,71 @@
+html {
+	background: #ccc;
+}
+
+body {
+	width: 80%;
+	margin: 0 auto;
+	background: white;
+	height: 650px;
+}
+
+header {
+	height: 100px;
+	margin-bottom: 1em;
+	background: #aaa;
+}
+
+nav {
+	height: 50px;
+	margin-bottom: 1em;
+	background: brown;
+}
+
+article {
+	float: left;
+	width: 60%;
+	padding: 0 2%;
+	background: lightsteelblue;
+	height: 400px;
+	margin-bottom: 1em;
+}
+
+img {
+	float: left;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+#box1 {
+	background-color: blue;
+}
+
+#box2 {
+	background-color: white;
+}
+
+#box3 {
+	background-color: red;
+}
+
+.clearfix {
+	clear: both;
+}
+
+aside {
+	float: right;
+	width: 34%;
+	background: navajowhite;
+	height: 400px;
+	margin-bottom: 1em;
+}
+
+footer {
+	height: 100px;
+	clear: both;
+	background: seagreen;
+}
