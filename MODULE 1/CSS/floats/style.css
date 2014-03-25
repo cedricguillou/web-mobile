@@ -66,6 +66,6 @@ aside {
 
 footer {
 	height: 100px;
-	clear: both;
+/*	clear: both;*/
 	background: seagreen;
 }
