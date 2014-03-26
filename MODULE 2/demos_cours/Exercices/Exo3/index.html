@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Exercice 3</title>
+	
+</head>
+
+<body>
+
+	<h1>Exercice 3</h1>
+
+	<p>Cliquez sur le bouton pour lancer la fonction&nbsp;: <button onclick="affiche()">Lancer la fonction</button></p>
+
+
+
+
+	<script type="text/javascript">
+
+		var tab=[-2,1,4];
+
+		function soustrait(x)
+		{
+			if (x >= 0) return (x-2); else return "Nombre négatif!";
+		}
+
+		function affiche()
+		{
+			alert(soustrait(tab[0]));
+			alert(soustrait(tab[tab.length-1]));
+		}
+		
+  	</script>
+
+</body>
+
+</html>

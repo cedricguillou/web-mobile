@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Exercice 4</title>
+	
+</head>
+
+<body>
+
+	<h1>Exercice 4</h1>
+
+	<p>Cliquez sur le bouton pour lancer la fonction&nbsp;: <button onclick="testWhile()">Lancer la fonction</button></p>
+
+
+
+
+	<script type="text/javascript">
+
+		function testWhile() {
+			
+			var chaine;
+
+			do {
+				chaine=prompt("Entrez une chaîne de caractères contenant le caractère \"");
+			}
+			while (chaine.indexOf("\"")==-1)
+
+			alert("La chaîne entrée est \""+chaine+"\"");
+		}
+		
+  	</script>
+
+</body>
+
+</html>

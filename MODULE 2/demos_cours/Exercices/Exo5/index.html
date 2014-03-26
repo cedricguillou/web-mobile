@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Exercice 5</title>
+	
+</head>
+
+<body>
+
+	<h1>Exercice 5</h1>
+
+	<input type="text" id="nouveau"><input type="button" value="OK" onClick="ajout()">
+
+	<ul id="liste">
+		<li>1kg de farine</li>
+		<li>un pack de lait</li>
+	</ul>
+
+
+	<script type="text/javascript">
+
+		function ajout()
+		{
+
+			liste=document.getElementById("liste");
+			texte=document.getElementById("nouveau").value;
+			
+			nouveauli=document.createElement("li");
+			nouveauli.innerHTML=texte;
+			
+			liste.appendChild(nouveauli);
+		
+		}
+		
+  	</script>
+
+</body>
+
+</html>

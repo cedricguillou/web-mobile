@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Exercice 2</title>
+	
+</head>
+
+<body>
+
+	<h1>Exercice 2</h1>
+
+	<p>Cliquez sur le bouton pour lancer la fonction&nbsp;: <button onclick="jourDeLaSemaine()">Lancer la fonction</button></p>
+
+
+
+
+	<script type="text/javascript">
+
+		function jourDeLaSemaine(){
+			var aujourdhui= new Date;
+
+			jour=aujourdhui.getDay();
+			var jourFrancais ;
+
+			switch (jour) {
+				case 0 : jourFrancais="dimanche";break;
+				case 1 : jourFrancais="lundi";break;
+				case 2 : jourFrancais="mardi";break;
+				case 3 : jourFrancais="mercredi";break;
+				case 4 : jourFrancais="jeudi";break;
+				case 5 : jourFrancais="vendredi";break;
+				case 6 : jourFrancais="samedi";break;
+				default: jourFrancais="jour inexistant"; break;
+			}
+
+			alert("Nous sommes "+jourFrancais+".");
+		}	
+		
+  	</script>
+
+</body>
+
+</html>
