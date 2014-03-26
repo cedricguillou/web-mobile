@@ -1,0 +1,38 @@
+#home {
+	background-color: #fafafd;
+}
+
+#home img.logo {
+	width: 100%;
+	max-width: 480px;
+	display: block;
+	margin: 0 auto;
+}
+
+#home .ui-controlgroup {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#listeMagasins form.ui-filterable {
+	margin-bottom: 1em;
+}
+
+.ui-listview .ui-li-has-thumb>img:first-child, .ui-listview .ui-li-has-thumb>.ui-btn>img:first-child, .ui-listview .ui-li-has-thumb .ui-li-thumb {
+	height: 100%;
+}
+
+.ui-content > img {
+	width: 100%;
+}
+
+.test {
+	font-size: 0.9em;
+}
+
+.adresse {
+	font-size: 0.8em;
+	color: #777;
+	padding: 1em;
+	border: 1px dotted #ddd;
+}
