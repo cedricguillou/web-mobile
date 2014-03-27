@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>EQDOM</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+	<script src="js/jquery-1.9.1.min.js"></script>
+	<script src="js/jquery.mobile-1.4.2.min.js"></script>
+</head>
+<body>
+
+<!-- /HOME -->
+<section id="home" data-role="page">
+
+	<header data-role="header">
+		<h1>HOME</h1>
+        <a href="#info" class="ui-btn ui-btn-right ui-btn-icon ui-icon-info ui-btn-icon-left ui-btn-mini ui-btn-inline ui-btn-icon-notext">INFO</a>
+	</header><!-- /header -->
+
+	<article data-role="content">
+    	<img class="logo" src="img/logo.png"/>
+		<br><br>
+        <div data-role="controlgroup">
+        <a href="#promotions" class="ui-btn ui-btn-icon-left ui-icon-home">Promotions</a>
+        <a href="#simulateur" class="ui-btn ui-btn-icon-left ui-icon-video">Simulateur</a>
+        <a href="#reseaux" class="ui-btn ui-btn-icon-left ui-icon-camera">Reseaux agences</a>
+        </div>
+	</article>
+    <!-- /content -->
+
+    
+</section>
+<!-- /page -->
+
+
+<!-- PROMOTIONS -->
+<section id="promotions" data-role="page">
+
+	<header data-role="header">
+		<h1>PROMOTIONS</h1>
+        <a href="#home" class="ui-btn ui-btn-left ui-btn-icon ui-icon-home ui-btn-icon-left ui-btn-mini ui-btn-inline">HOME</a>
+    </header><!-- /header -->
+    
+	<article data-role="content">
+
+     	<ul data-role="listview" data-inset="true">
+            <li><a href="#promotion_detail">
+                <img src="img/promo1.png">
+                <h2>PROMOTION 01</h2>
+                </a>
+            </li>
+            <li><a href="#promotion_detail">
+                <img src="img/promo2.png">
+                <h2>PROMOTION 02</h2>
+                </a>
+            </li>
+            <li><a href="#promotion_detail">
+                <img src="img/promo3.png">
+                <h2>PROMOTION 03</h2>
+                </a>
+            </li>
+        </ul>    
+    </article>
+
+    
+</section>
+<!-- /PROMOTIONS -->
+
+
+
+<!-- MAGASINS DEATIL -->
+<section id="promotion_detail" data-role="page">
+
+<header data-role="header">
+		<h1>DETAIL PROMOTION</h1>
+        <a href="#promotions" class="ui-btn ui-btn-left ui-btn-icon ui-icon-arrow-l ui-btn-icon-left ui-btn-mini  ui-btn-inline ui-btn-icon-notext"></a>
+       	</header><!-- /header -->
+    
+	<article data-role="content">
+    	<h2>PROMOTION 01</h2>
+        <img src="img/promo1.png">
+    </article>
+
+    
+</section>
+<!-- /MAGASINS DETAIL -->
+
+
+<!-- SIMU -->
+<section id="simulateur" data-role="page">
+
+	<header data-role="header">
+		<h1>SIMULATEUR</h1>
+        <a href="#home" class="ui-btn ui-btn-left ui-btn-icon ui-icon-home ui-btn-icon-left ui-btn-mini ui-btn-inline">HOME</a>
+    </header><!-- /header -->
+    
+	<article data-role="content">
+    <form>
+      	<label for="slider">Montant :</label>
+        <!--<input type="range" id="montant" value="10000" min="10000" max="300000" data-highlight="true" data-mini="true"/>-->
+        <input type="range" name="slider-1" id="montant" min="0" max="100" value="50">
+        
+        <label for="slider">Duree :</label>
+        <input type="range" id="duree" value="60" min="60" max="84" data-highlight="true" data-mini="true"/>
+        
+        <label for="slider">Mensualite :</label>
+        <input type="range" id="mst" value="2431" min="1000" max="7000" data-highlight="true" data-mini="true"/>
+        
+        <label for="slider">Resultat :</label>
+        <input type="input" id="res" value="" data-highlight="true" data-mini="true"/>
+        
+    </form>	
+    </article>
+
+    
+</section>
+<!-- /SIMU -->
+
+
+
+
+<!-- Info -->
+<section id="info" data-role="page">
+
+<header data-role="header">
+		<h1>INFO LEGALE</h1>
+        <a href="#home" class="ui-btn ui-btn-left ui-btn-icon ui-icon-home ui-btn-icon-left ui-btn-mini ui-btn-inline">HOME</a>
+       	</header><!-- /header -->
+    
+	<article data-role="content">
+		<h1>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression.<br><br>
+Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.<br><br> Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié.</h1>
+        <p></p>
+    </article>
+
+    
+</section>
+<!-- /INFO -->
+
+<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>

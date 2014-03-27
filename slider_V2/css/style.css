@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#home img.logo {
+	width:100%;
+	max-width:480px;
+	display:block;
+	margin:0 auto;	
+}
