@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Web Storage</title>
+
+	<!-- HTML5 shim for IE backwards compatibility -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<!--[endif]-->
+	
+</head>
+
+<body>
+
+	<h1>TP: Web Storage</h1>
+	<h2>Local Storage, Session Storage</h2>
+
+	<hr>
+
+	<form id="dbForm" action="">
+
+		<label for="filmInput">Film</label>
+		<input type="text" id="filmInput" />
+
+		<label for="realInput">Réalisateur</label>
+		<input type="text" id="realInput" />
+
+		<label for="anneeInput">Année</label>
+		<input type="text" id="anneeInput" />
+
+		<br><br>
+		<input type="submit" id="dbClear" value="Reset"/>
+		<input type="submit" id="dbSubmit" value="OK" />
+	</form> <!-- #dbForm -->
+
+	<hr>
+
+	<h3>Film</h3>
+	<p id="film"></p>
+
+	<h3>Réalisateur</h3>
+	<p id="realisateur"></p>
+
+	<h3>Année</h3>
+	<p id="annee"></p>
+
+	<script src="script.js"></script>
+
+</body>
+
+</html>

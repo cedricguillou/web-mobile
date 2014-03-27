@@ -1,0 +1,16 @@
+#playArea {
+	position: relative;
+	width: 100%;
+	height: 200px;
+	border: 1px solid #ccc;
+	background-color: #eee;
+}
+
+#square {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	top: 50px;
+	left: 50px;
+}
