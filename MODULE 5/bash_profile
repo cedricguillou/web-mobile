@@ -1,0 +1,2 @@
+export ANT_HOME="/Users/cnti/Desktop/adt-bundle-mac-x86_64-20131030/eclipse/plugins/org.apache.ant_1.8.3.v201301120609"
+PATH=${PATH}:/Users/cnti/Desktop/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/cnti/Desktop/adt-bundle-mac-x86_64-20131030/sdk/tools:$ANT_HOME/bin
