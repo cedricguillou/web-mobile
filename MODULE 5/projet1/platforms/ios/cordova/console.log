@@ -1,0 +1,41 @@
+2014-03-21 11:21:14.751 projet1[4221:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 11:21:14.790 projet1[4221:a0b] Unlimited access to network resources
+2014-03-21 11:21:14.794 projet1[4221:a0b] Fix applied for database locations?: YES
+2014-03-21 11:21:15.365 projet1[4221:a0b] Resetting plugins due to page load.
+2014-03-21 11:21:15.529 projet1[4221:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html
+2014-03-21 11:28:22.183 projet1[4831:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 11:28:22.190 projet1[4831:a0b] Unlimited access to network resources
+2014-03-21 11:28:22.337 projet1[4831:a0b] Resetting plugins due to page load.
+2014-03-21 11:28:30.749 projet1[4831:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html
+2014-03-21 11:30:07.238 projet1[5200:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 11:30:07.248 projet1[5200:a0b] Unlimited access to network resources
+2014-03-21 11:30:07.405 projet1[5200:a0b] Resetting plugins due to page load.
+2014-03-21 11:30:08.399 projet1[5200:5407] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9814)
+2014-03-21 11:30:13.589 projet1[5200:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html
+2014-03-21 11:30:17.334 projet1[5200:a0b] Received memory warning.
+2014-03-21 11:40:47.425 projet1[6076:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 11:40:47.651 projet1[6076:a0b] Unlimited access to network resources
+2014-03-21 11:40:49.086 projet1[6076:a0b] Resetting plugins due to page load.
+2014-03-21 11:40:55.164 projet1[6076:5407] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9814)
+2014-03-21 11:40:55.165 projet1[6076:5407] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9814)
+2014-03-21 11:41:03.279 projet1[6076:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html#videoPlayer
+2014-03-21 12:09:32.480 projet1[5030:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 12:09:32.507 projet1[5030:a0b] Unlimited access to network resources
+2014-03-21 12:09:32.643 projet1[5030:a0b] Resetting plugins due to page load.
+2014-03-21 12:09:33.865 projet1[5030:5307] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9814)
+2014-03-30 19:10:30.397 projet1[3850:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 19:10:30.596 projet1[3850:a0b] Unlimited access to network resources
+2014-03-30 19:10:31.879 projet1[3850:a0b] Resetting plugins due to page load.
+2014-03-30 19:10:40.778 projet1[3850:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html#listeMagasins
+2014-03-30 19:12:13.359 projet1[4183:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 19:12:13.366 projet1[4183:a0b] Unlimited access to network resources
+2014-03-30 19:12:13.547 projet1[4183:a0b] Resetting plugins due to page load.
+2014-03-30 19:12:20.685 projet1[4183:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html
+2014-03-30 19:14:08.166 projet1[4516:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 19:14:08.173 projet1[4516:a0b] Unlimited access to network resources
+2014-03-30 19:14:08.291 projet1[4516:a0b] Resetting plugins due to page load.
+2014-03-30 19:14:18.906 projet1[4516:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html#listeMagasins
+2014-03-30 19:14:36.220 projet1[4821:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 19:14:36.227 projet1[4821:a0b] Unlimited access to network resources
+2014-03-30 19:14:36.307 projet1[4821:a0b] Resetting plugins due to page load.
+2014-03-30 19:14:49.505 projet1[4821:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/8310850E-9989-45CF-B845-3547B6786379/projet1.app/www/index.html#listeMagasins

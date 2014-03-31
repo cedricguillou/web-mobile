@@ -1,0 +1,56 @@
+[
+  {
+    "nom": "Quai des marques",
+    "img": "http://www.lesmagasinsdusine.com/sites/default/files/styles/large/public/quaidesmarques2_0.jpg",
+    "ville": "Franconville",
+    "adresse": "395 rue du Général Leclerc<br/>95130 Franconville",
+    "lat": 48.987926,
+    "long": 2.210185,
+    "description": "Vous trouverez à Quai des marques Franconville (95) plus de 370 marques et 95 boutiques.<br/>L'enseigne QUAI DES MARQUES regroupe un grand nombre de magasins d'usines effectuant des \"soldes\" tout au long de l'année."
+  },
+  {
+    "nom": "Marques Avenue",
+    "img": "http://www.lesmagasinsdusine.com/sites/default/files/styles/large/public/marque-avenue-A6.jpg",
+    "ville": "Corbeil Essonnes",
+    "adresse": "2 rue Jean Cocteau<br/>91100 Corbeil Essonnes",
+    "lat": 48.608885,
+    "long": 2.447205,
+    "description": "A 30 min de la Porte d’Orléans, premier centre de marques dans le grand sud de Paris, Marques Avenue A6 est situé à un emplacement idéal au croisement de l’autoroute A6 et de la N104 (Francilienne). Les enseignes emblématiques françaises et internationales de la mode présentes sur le centre (prêt-à-porter femme, homme, enfant, sporstwear, accessoires, petit éMarques Avenue A6lectroménager, art de la table...) proposent toute l’année, leurs collections précédentes, surstocks et fin de séries avec des réductions de -30% à -50%. Retrouvez 120 grandes marques comme Nike, Oxbow, Mango, Petit Bateau, IKKS, Le Coq Sportif, Banana Moon, Catimini, De Fursac, Le Phare de la Baleine, Chattawak, Bérénice, Le Tanneur, Lafuma, Ben simon, Delsey, Aubade, Le Temps des Cerises, Quiksilver, Princesse Tam-Tam, Levi’s, etc..."  
+  },
+  {
+    "nom": "L'Usine Mode et Maison",
+    "img": "http://www.lesmagasinsdusine.com/sites/default/files/styles/large/public/lusine.jpg",
+    "ville": "Vélizy-Villacoublay",
+    "adresse": "Route André Citroën<br/>78140 Vélizy-Villacoublay",
+    "lat": 48.774337,
+    "long": 2.225359,
+    "description": "Avec ses façades rouges arborant des codes barres géants, L'Usine Mode et Maison affiche la couleur. Dès l'entrée dans le centre de Vélizy-Villacoublay, vous découvrez un univers contemporain et design : immense verrière, briques blanches et sol béton ciré..."
+  },
+  {
+    "nom": "La Vallée Village",
+    "img": "http://www.lesmagasinsdusine.com/sites/default/files/styles/large/public/laVallee.jpg",
+    "ville": "Serris",
+    "adresse": "3, cours de la Garonnes<br/>77700 Serris",
+    "lat": 48.844320,
+    "long": 2.788231,
+    "description": "A 35 minutes du centre de Paris, à Serris, La Vallée Village propose toute l’année les collections précédentes de plus de 90 boutiques de marques à des prix irrésistibles (-33% minimum du prix d’origine ). Une centaine de grandes marques proposant leurs collections précédentes à prix réduits."
+  },
+   {
+    "nom": "Usines Center",
+    "img": "http://www.lesmagasinsdusine.com/sites/default/files/styles/large/public/usine-center-paris.jpg",
+    "ville": "Gonesse",
+    "adresse": "Zone industrielle Paris Nord 2<br/>134, avenue de la Plaine de France BP 70164<br/>95500 Gonesse",
+    "lat": 48.986463,
+    "long": 2.449772,
+    "description": "Ouvert en 1985, Usines Center fait figure de pionnier dans l’univers des centres outlet. Le centre compte plus de 100 boutiques, lesquelles proposent près de 300 marques de référence parmi lesquelles Guess, Petit Bateau, Levi’s, Gérard Darel, Zapa, Aigle, Quiksilver, Desigual, Café Coton…"
+  },
+   {
+    "nom": "Marques Avenue",
+    "img": "http://www.lesmagasinsdusine.com/sites/default/files/styles/large/public/marquesavenue2_0.jpg",
+    "ville": "Ile Saint-Denis",
+    "adresse": "9, quai du Châtelier<br/>93450 Ile St-Denis",
+    "lat": 48.925766,
+    "long": 2.334636,
+    "description": "À 20 minutes de l’Etoile, en bord de Seine, Marques Avenue L’Île Saint-Denis comporte 75 boutiques dédiées aux adeptes du shopping malin. Ces enseignes emblématiques françaises et internationales de la mode (prêt-à-porter femme, homme, enfant, sporstwear, accessoires, petit électroménager, art de la table...) proposent toute l’année, leurs collections précédentes, surstocks et fin de séries avec des réductions de -30% à -50%."
+  }
+]

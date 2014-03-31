@@ -1,0 +1,12 @@
+2014-03-30 18:58:22.554 PhonegapGeoloc[2952:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 18:58:22.563 PhonegapGeoloc[2952:a0b] Unlimited access to network resources
+2014-03-30 18:58:22.591 PhonegapGeoloc[2952:a0b] [CDVTimer][statusbar] 8.159995ms
+2014-03-30 18:58:22.591 PhonegapGeoloc[2952:a0b] [CDVTimer][TotalPluginStartup] 8.845985ms
+2014-03-30 18:58:22.632 PhonegapGeoloc[2952:a0b] Resetting plugins due to page load.
+2014-03-30 18:58:22.682 PhonegapGeoloc[2952:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/BB7F7F1A-18F0-4EB9-BEE3-2C2BC2E1A07D/PhonegapGeoloc.app/www/index.html
+2014-03-30 18:58:37.321 PhonegapGeoloc[3064:a0b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 18:58:37.329 PhonegapGeoloc[3064:a0b] Unlimited access to network resources
+2014-03-30 18:58:37.362 PhonegapGeoloc[3064:a0b] [CDVTimer][statusbar] 7.991016ms
+2014-03-30 18:58:37.362 PhonegapGeoloc[3064:a0b] [CDVTimer][TotalPluginStartup] 8.436024ms
+2014-03-30 18:58:37.471 PhonegapGeoloc[3064:a0b] Resetting plugins due to page load.
+2014-03-30 18:58:38.008 PhonegapGeoloc[3064:a0b] Finished load of: file:///Users/cedricguillou/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/BB7F7F1A-18F0-4EB9-BEE3-2C2BC2E1A07D/PhonegapGeoloc.app/www/index.html
